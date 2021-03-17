@@ -1,7 +1,6 @@
 - 👋 Hi, I’m SHAIL
 - 👀 I’m interested in frontend webdev
 - 🌱 I’m currently learning ... node js
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at twitter @professorShail 
 
 <!---
